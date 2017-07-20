@@ -1,0 +1,2 @@
+CFBundleName = "iTerm-Befehl ausführen";
+"LBSummary" = "Diese Aktion öffnet iTerm.app und führt den angegebenen Befehl aus.";
